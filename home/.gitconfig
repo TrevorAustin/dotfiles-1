@@ -1,8 +1,8 @@
 [push]
 	default = simple
 [user]
-	name = billwanjohi
-	email = kaguru@gmail.com
+	name = Trevor Austin
+	email = taustin@civisanalytics.com
 [core]
 	editor = vim
 	excludesfile = $HOME/.gitignore_global
